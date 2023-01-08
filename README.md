@@ -158,3 +158,4 @@ $ python tests/integration/testJobs.py
 
 * [API v2 Documentation](https://cloudconvert.com/api/v2)
 * [CloudConvert Blog](https://cloudconvert.com/blog)
+* [x264](https://www.videolan.org/developers/x264.html)
